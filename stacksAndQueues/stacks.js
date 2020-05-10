@@ -39,7 +39,6 @@ class Node {
       this.length--;
       return this;
     }
-    //isEmpty
   }
   
   const myStack = new Stack();
